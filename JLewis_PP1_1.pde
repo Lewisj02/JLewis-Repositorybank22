@@ -27,6 +27,26 @@ line(0,100,120,100);
 line(0,110,120,110);
 
 
+strokeWeight(2);
+line(60,50,70,40);
+strokeWeight(2);
+line(70,60,60,70);
+strokeWeight(2);
+line(50,40,40,50);
+strokeWeight(2);
+line(60,50,40,50);
+strokeWeight(2);
+line(70,40,50,40);
+strokeWeight(2);
+line(70,60,70,40);
+strokeWeight(2);
+line(60,70,40,70);
+strokeWeight(2);
+line(40,70,40,50);
+strokeWeight(2);
+line(60,70,60,50);
+
+
 strokeWeight(5);
 point(40,50);
 strokeWeight(5);
@@ -41,14 +61,3 @@ strokeWeight(5);
 point(70,40);
 strokeWeight(5);
 point(70,60);
-
-
-line(60,50,70,40);
-line(70,60,60,70);
-line(50,40,40,50);
-line(60,50,40,50);
-line(70,40,50,40);
-line(70,60,70,40);
-line(60,70,40,70);
-line(40,70,40,50);
-line(60,70,60,50);
